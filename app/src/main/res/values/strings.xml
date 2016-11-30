@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ColorLink</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="insert">Insert</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+    <string name="delete">Delete</string>
+    <string name="fix">Fix</string>
+    <string name="save">Save</string>
+    <string name="file_name">File name</string>
+    <string name="cancel">Cancel</string>
+    <string name="load">Load</string>
+    <string name="create">New</string>
+    <string name="title_editor">ColorLink Editor</string>
+</resources>
